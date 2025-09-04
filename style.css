@@ -1,0 +1,8 @@
+body{font-family:Arial;max-width:720px;margin:20px auto;}
+#chat{border:1px solid #ddd;padding:10px;height:400px;overflow:auto;background:#f9f9f9}
+.me{color:#111;text-align:right}
+.bot{color:#0b78e3;text-align:left}
+.bubble{display:inline-block;padding:8px 12px;border-radius:12px;margin:6px 0;max-width:80%}
+.me .bubble{background:#cfe9ff}
+.bot .bubble{background:#e8f0ff}
+#controls{margin-top:10px}
