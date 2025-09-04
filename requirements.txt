@@ -5,3 +5,4 @@ wikipedia
 gTTS
 fpdf
 python-dotenv
+aiohttp==3.9.5
